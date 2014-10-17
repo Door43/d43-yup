@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yup:home|Door43 (yup)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yup|d43-yup repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yup/archive/master.zip|d43-yup.zip]]
+
+**Recent Changes**
+{{changes>ns = yup}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yup|Ethnologue data]]
+
